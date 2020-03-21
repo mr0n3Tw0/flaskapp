@@ -40,3 +40,8 @@ nosetests.xml
 
 # Virtual environment
 venv
+
+# IntellijIdea files
+*.iml
+.idea
+out
